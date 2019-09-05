@@ -198,7 +198,7 @@ def get_result_from_query_vect(query_vector1):
     return parsed_list
 
 
-# now the actual execution starts (this is equivalent to the main function of java)
+# now the actual execution starts (this is equivalent to main function of java)
 # print time.time()
 
 getfolderaddress()
